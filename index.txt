@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"
+    <meta name="viewpoint" content="width=device-width, initial-scale=1.0">
+       <title>Document</title>
+       <link rel="stylesheet" href="sty.css">
+       
+</head>
+<body>
+    <header>
+       <div class="user">
+       <img src="PHOTO.jpg">
+       <h5 class="nm">Bindu Ravishankar</h5>
+       <p class="jb">Student</p>
+       </div>
+       <nav class="nv">
+          <ul>
+             <li><a href="#Details">Details</a></li>
+             <li><a href="#Education">Education</a></li>
+             <li><a href="#Technical Skills">Technical Skills</a></li>
+             <li><a href="#Project">Project</a></li>
+          </ul>
+       </nav>
+    </header>
+    <section class="Details" id="Details">
+        <h1 class="heading"><span>Details about me</span></h1>
+        <div class="Row">
+        <div class="det">
+             <h3><span>Name: </span>Bindu Ravishankar</h3>
+             <h3><span>Age: </span>23</h3>
+             <h3><span>Gender: </span>Female</h3>
+             <h3><span>Email: </span>binduravishankar19@gmail.com</h3>
+             <h3><span>Phone_no: </span>6363502922</h3>    
+        </div>
+    </div>
+    </section>
+<section class="Education" id="Education">
+    <h1 class="title"><span>Education</span></h1><br><br><br>
+    <table>
+        <tr>
+            <th>Course</th>
+            <th>Name of the institute</th>
+            <th>University</th>
+            <th>Percentage</th>
+        </tr>
+        <tr>
+            <td>SSCL</td>
+            <td>Sri Taralabalu Jagadguru Residential School</td>
+            <td>KSEEB</td>
+            <td>92.48</td>
+        </tr>
+        <tr>
+            <td>PUC</td>
+            <td>D R M PU College</td>
+            <td>KSEEB</td>
+            <td>82</td>
+        </tr>
+        <tr>
+            <td>BE</td>
+            <td>Bapuji Institute of Engineering & Technology </td>
+            <td>VTU</td>
+            <td>6.59</td>
+        </tr>
+    </table>
+</section>
+<br><br><br><br><br><br>
+<section class="Technical Skills" id="Technical Skills">
+    <h1 class="head"><span>Technical Skills</span></h1>
+    <div>
+    <ul id="lis">
+        <li>Java</li>
+        <li>C++</li>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>Oracle</li>
+        <li>MySQL</li>
+        <li>Python</li>
+    </ul>
+</div>
+</section>
+<section class="Project" id="Project">
+    <h1 class="heading"><span>Project</span></h1>
+    <div class="Row">
+        <div class="det">
+    <h3><span>Role: </span>Team Leader</h3>
+    <h3><span>Title: </span>Machine Learning Approach To Predict Alzheimer's Disease using MMSE metrics </h3>
+    <h3><span>Description: </span>Based on existing systems and review on literature survey, there is no existing system that predicts stages of Alzheimer’s disease, so this motivates us to develop a sound model, which can predict stages of Alzheimer’s disease using machine learning techniques.
+ The uniqueness of our approach is a fact that we have included MMSE metrics, Education and through data visualization techniques we have depicted the stages of Alzheimer’s Disease. 
+In our model we have trained it to differentiate between various stages of Alzheimer’s Disease.</h3>
+
+</div>
+</div>
+</section>
+</body>
+</html>
+index.html
+Displaying index.html.
